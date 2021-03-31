@@ -24,4 +24,14 @@
 
 test项目不需要运行,它不是一个服务,你可以在test项目中的src\test\java\lee\TT.java中找到单元测试.然后跟着测试类里的注释,一个一个地跑单元测试就行了.
 
-祝学习顺利.如有疑问可联系我wx 45538336
+祝学习顺利.
+
+-------------------------------------------
+
+视频课程已发布
+
+1.最简单的使用SpringOAuth2进行分布式权限管理:https://www.bilibili.com/video/BV1p5411N7Po
+
+2.在SpringOAuth2中使用JwtToken和数据库持久化:https://www.bilibili.com/video/BV1Py4y1a7Nu
+
+3.在SpringCloud微服务架构中使用SpringOAuth2(完结):https://www.bilibili.com/video/BV1Ky4y1e7JJ
